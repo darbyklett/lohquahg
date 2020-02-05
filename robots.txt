@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohjahquifo.moilioncircle.com/sitemap.xml
